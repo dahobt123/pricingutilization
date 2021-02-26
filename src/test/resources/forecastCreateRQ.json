@@ -1,0 +1,40 @@
+{
+  "context": {
+    "domainName": "Pricing",
+    "securityToken": "MYTOKIN",
+    "language": "EN",
+    "transactionid": "mytransactionid"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "CreateUtilizationForecast",
+    "version": "1.0.0",
+    "client": "CAGPOS"
+  },
+  "request": {
+    "cagAircraftId": 768875,
+    "charterSupplierId": 5749,
+    "manufacturer": "CESSNA",
+    "model": "Citation",
+    "exclude": false,
+    "lowKFactor": 0.6,
+    "highKFactor": 1.2,
+    "scaleFactor": 0.1,
+    "maxPctIncrease": 0.30,
+    "maxPctDecrease": 0.1,
+    "effectiveDate": "2020-01-01",
+    "expiryDate": "2020-12-31",
+    "utilization1": 10,
+    "utilization2": 20,
+    "utilization3": 30,
+    "utilization4": 40,
+    "utilization5": 50,
+    "utilization6": 60,
+    "utilization7": 70,
+    "utilization8": 80,
+    "utilization9": 90,
+    "utilization10": 100,
+    "utilization11": 110,
+    "utilization12": 120
+  }
+}

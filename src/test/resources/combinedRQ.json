@@ -1,0 +1,20 @@
+{
+  "context": {
+    "securityToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmaXJzdE5hbWUiOiJLeWxlIiwibGFzdE5hbWUiOiJHb3JnYXMiLCJsb2dvblR5cGUiOiJDQSIsInN1cHBsaWVySWQiOjEwMDAsImJ1c2luZXNzSWQiOjUwMDEwMCwidXNlcklkIjoxNTA0MzE3LCJpc3MiOiJDaGFydGVyIGFuZCBHbyBhdXRoZW50aWNhdGlvbiIsImV4cCI6MTYxNDM1Mjk2Mn0.crCgcBWnL858rRgDYM5Edr80Tq6CXlHw-ZJcnUudUZi4hCbF_RQOcDopjwwVS1m74JxtozcUAqyIkUdM67VoxioU8Q-N4xko8laVnbhuDd3aMOCXd7WCuX6_tZ_4r22VrCf8_k-rlopV7d0eWPsgi8PBVeriuuPI5NodzlFpzoUZ7CG75Z2XHNdK4oa3nMdGYwI2K6DoT1lNf4c6CBpQc_4tfRiI9g-vUIdczxqMVTH6c21ZzBN24jcbtJZ766V0jaiZQIYXvOGGX9J9MmbFEMVA2d655Ii6rk4wrPM-lndKCDc24OZFIVygUT9ucrNeoFMnG7lIhEExJppT0_Qy_w",
+    "domain": "Pricing",
+    "transactionid": "PRICING TRANSACTION ID",
+    "language": "EN"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "UtilizationCombined",
+    "version": "1.0.0",
+    "client": "CAGPOS",
+    "transactionid": "PRICING TRANSACTION ID"
+  },
+  "request": {
+    "chartersupplier_id": 1000,
+    "manufacturer": "Beech Premier",
+    "model": "1A"
+  }
+}

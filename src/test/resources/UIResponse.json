@@ -1,0 +1,150 @@
+{
+  "standardResponse": {
+    "returnCode": "0",
+    "domainName": "Pricing",
+    "language": "EN",
+    "responsetype": "GOOD",
+    "transactionid": "mytransactionid"
+  },
+  "responseMessage": {
+    "actuals": [
+      {
+        "hours": 5,
+        "monthYear": "01/2021",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "02/2021",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "03/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "04/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "05/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "06/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "07/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "08/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "09/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "10/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "11/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      },
+      {
+        "hours": 5,
+        "monthYear": "12/2020",
+        "tailNumber": "N456AB",
+        "model": "Citation",
+        "cagAircraftId": 768875,
+        "charterSupplierId": 5749,
+        "manufacturer": "CESSNA"
+      }
+    ],
+    "annualUtilActualsByMonth": 5,
+    "currentMonthAverageMakeModel": 0,
+    "forecast": {
+      "scaleFactor": 0.1,
+      "utilization7": 70,
+      "kFactor": 0.6,
+      "utilization6": 60,
+      "utilization9": 90,
+      "utilization8": 80,
+      "utilization3": 30,
+      "utilization2": 20,
+      "cagAircraftId": 768875,
+      "utilization5": 50,
+      "charterSupplierId": 5749,
+      "manufacturer": "CESSNA",
+      "highKFactor": 1.2,
+      "utilization4": 40,
+      "expiryDate": "2020-12-31",
+      "utilization1": 10,
+      "utilization10": 100,
+      "utilization12": 120,
+      "utilization11": 110,
+      "model": "Citation",
+      "exclude": false,
+      "maxPctIncrease": 0.3,
+      "maxPctDecrease": 0.1,
+      "effectiveDate": "2020-01-01"
+    },
+    "ttmAverageMakeModel": 4
+  }
+}

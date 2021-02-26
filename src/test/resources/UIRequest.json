@@ -1,0 +1,19 @@
+{
+  "context": {
+    "domainName": "Pricing",
+    "securityToken": "MYTOKIN",
+    "language": "EN",
+    "transactionid": "mytransactionid"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "UtilizationCombined",
+    "version": "1.0.0",
+    "client": "CAGPOS"
+  },
+  "request": {
+    "charterSupplierId": 5749,
+    "manufacturer": "CESSNA",
+    "model": "Citation"
+  }
+}

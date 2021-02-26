@@ -1,0 +1,20 @@
+{
+  "context": {
+    "domainName": "Pricing",
+    "securityToken": "MYTOKIN",
+    "language": "EN",
+    "transactionid": "mytransactionid"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "ReadUtilizationsForecast",
+    "version": "1.0.0",
+    "client": "CAGPOS"
+  },
+  "request": {
+    "cagAircraftId": 768875,
+    "charterSupplierId": 5749,
+    "manufacturer": "CESSNA",
+    "model": "Citation"
+  }
+}

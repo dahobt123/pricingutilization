@@ -1,0 +1,47 @@
+{
+  "standardResponse": {
+    "returnCode": "0",
+    "domainName": "Pricing",
+    "language": "EN",
+    "responsetype": "GOOD",
+    "transactionid": "mytransactionid"
+  },
+  "responseMessage": {
+    "actuals": {
+      "hours": 10,
+      "model": "GIVSP",
+      "cagAircraftId": 0,
+      "charterSupplierId": 5749,
+      "manufacturer": "Gulfstream"
+    },
+    "annualUtilActualsByMonth": 10,
+    "currentMonthAverageMakeModel": 10,
+    "forecast": {
+      "scaleFactor": 0.5,
+      "utilization7": 70,
+      "kFactor": 1.5,
+      "utilization6": 70,
+      "utilization9": 70,
+      "utilization8": 70,
+      "utilization3": 70,
+      "utilization2": 70,
+      "cagAircraftId": 1000000,
+      "utilization5": 70,
+      "charterSupplierId": 5749,
+      "manufacturer": "Gulfstream",
+      "highKFactor": 0.7,
+      "utilization4": 70,
+      "expiryDate": "2021-12-31",
+      "utilization1": 70,
+      "utilization10": 70,
+      "utilization12": 70,
+      "utilization11": 70,
+      "model": "GIVSP",
+      "exclude": false,
+      "maxPctIncrease": 1.2,
+      "maxPctDecrease": 0.3,
+      "effectiveDate": "2021-01-01"
+    },
+    "ttmAverageMakeModel": 10
+  }
+}

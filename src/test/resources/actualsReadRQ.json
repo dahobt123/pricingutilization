@@ -1,0 +1,22 @@
+{
+  "context": {
+    "domainName": "Pricing",
+    "securityToken": "MYTOKIN",
+    "language": "EN",
+    "transactionid": "mytransactionid"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "ReadUtilizations",
+    "version": "1.0.0",
+    "client": "CAGPOS"
+  },
+  "request": {
+    "cagAircraftId": 768875,
+    "charterSupplierId": 5749,
+    "tailNumber": "N456AB",
+    "manufacturer": "CESSNA",
+    "model": "Citation",
+    "beginDate": "01/2021"
+  }
+}

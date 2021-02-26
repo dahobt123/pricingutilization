@@ -1,0 +1,17 @@
+{
+  "context": {
+    "domainName": "Pricing",
+    "securityToken": "MYTOKIN",
+    "language": "EN",
+    "transactionid": "mytransactionid"
+  },
+  "commonParms": {
+    "action": "READ",
+    "view": "DeleteUtilizationForecast",
+    "version": "1.0.0",
+    "client": "CAGPOS"
+  },
+  "request": {
+    "cagAircraftId": 768875
+  }
+}
